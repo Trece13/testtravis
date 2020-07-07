@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "testtravis"
+    }
+  },
+  "defaultProject": "testtravis",
+  "cli": {
+    "analytics": "605eaaed-fe00-43c6-aa29-6d8c7814ac58"
+  }
 }
