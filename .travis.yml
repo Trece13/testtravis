@@ -12,4 +12,3 @@ before_script:
 script:
     npm install
     ng build --aot --prod
-    ng serve
